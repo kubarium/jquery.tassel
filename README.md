@@ -2,7 +2,7 @@ Tassel is a jQuery plugin to turn your `<hr>` tag into something like this :
 
 ![Tasselled hr tag](http://s6.postimg.org/3v6rmm98h/tassel.gif)
 
-##Why?
+## Why?
 
 Because using `<hr>` is more semantic than using
 
@@ -14,6 +14,6 @@ Because using `<hr>` is more semantic than using
 </div>
 ```
 
-##How?
+## How?
 
 [Read the Wiki!](https://github.com/kubarium/jquery.tassel/wiki)
